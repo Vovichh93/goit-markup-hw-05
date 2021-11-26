@@ -592,7 +592,7 @@ img {
   background: rgba(0, 0, 0, 0.2);
   transition: opacity 1000ms, visibility 1000ms;
 }
-.backdrop.is-hidden.modal {
+.backdrop.is-hidden .modal {
   transform: scale(1.5);
   transition: transform 1000ms;
 }
